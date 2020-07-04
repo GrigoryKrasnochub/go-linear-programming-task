@@ -1,9 +1,9 @@
 # go-linear-programming-task
 Solving a linear programming task by the method of parameter evolution
 ## Examples
-Main page
-![Application interface](docs/interface-main.png)
-"Calc finish" message
+Main page  
+![Application interface](docs/interface-main.png)  
+"Calc finish" message  
 ![Application interface](docs/interface-calc.png)
 ## Is work in progress?
 No. It was my study project, and I just want to forget it :). But I'm ready to check any pull requests, or answer some questions.
