@@ -251,7 +251,7 @@ func (pinter *ProgramInterface) buildTable(variablesCount int, conditionsCount i
 		}
 
 		calcResult := pinter.linTask.DoCalc()
-		pinter.showMessage("Calculation status", fmt.Sprintf("\n%+v\n", calcResult))
+		pinter.showMessage("Calculation status", fmt.Sprintf("\n%+v\n\n", calcResult))
 	})
 
 	pinter.widgets.setConditionsVariablesWidget = widget.NewVBox(newTable, startCalcButton)
